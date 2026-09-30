@@ -74,8 +74,3 @@ stages:
               command: 'apply'
               environmentServiceNameAzureRM: 'sc_azuredevops'
               arguments: '$(System.DefaultWorkingDirectory)/drop/tfplan'
-
-
-
-
-      
